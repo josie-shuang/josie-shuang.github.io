@@ -1,0 +1,38 @@
+<!---------------- Educational History ------------------->
+		<section id="Education">
+		<div class="rounded_panel txt_lightgrey">
+			<div class="top-rounded-panel grey-bg">
+				<h1> Educational History </h1>
+			</div>
+			<div class="content-rounded-panel">
+			       <div>
+				     <style>
+					   tr:nth-child(even) {
+					   background-color: #dddddd;
+					   }
+				     </style>
+				     <table class="table" bgcolor="#EEEEEE">
+					   <thead>
+						 <tr style="background-color: #dddddd;">
+						       <th><a style="cursor: pointer;">Degree</a></th>
+						       <th><a style="cursor: pointer;">Year</a></th>
+						       <th><a style="cursor: pointer;">University</a></th>
+						       <th><a tyle="cursor: pointer;">Research</a></th>
+						 </tr>
+					   </thead>
+					   <tbody>
+             {% for position in site.positions %}
+							<tr>
+								<td>{{position.degree}}</td>
+								<td>{{position.year}}</td>
+								<td>{{position.university}}</td>
+								<td>{{position.research}}</td>
+							</tr>
+			       {% endfor %}
+					  </tbody>
+				    </table>
+			     </div>
+			     <br>                      
+		      </div>
+		</div>
+		</section>    
