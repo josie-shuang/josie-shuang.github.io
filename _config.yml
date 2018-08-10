@@ -14,15 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+title: Josie Huang
+name: Josie Huang
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+#User specific content
+#Links that will appear in the navbar
+
 plugins:
   - jekyll-feed
 
 #Specific contents
 navbar-title: Josie Huang
+
 #Navigation bar links
 navbar-links:
 - title: Home
