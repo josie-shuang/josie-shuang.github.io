@@ -9,13 +9,13 @@
         					<span class="icon-bar"></span>
 				 </button>
 				 <a class="navbar-brand navbar-left" id="title"> 
-                  			{{site.title}}
+                  			{{site.navbar-title}}
          			</a>   
 			  </div>  
 				
 			  <div id="myNavbar" class="navbar-collapse collapse">
 				 <ul class="nav navbar-nav navbar-right">
-					       {% for link in site.navbarlinks %}
+					       {% for link in site.navbar-links %}
                         				<li><a href="{{link.url}}">{{link.title}}</a></li>
                  				{% endfor %}
 				 </ul>
