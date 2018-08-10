@@ -1,0 +1,14 @@
+<section id="NeuroSkills">
+			<div class="rounded_panel txt_lightgrey">
+				<div class="top-rounded-panel grey-bg">
+					<h1>Neuroscience Tools</h1>
+				</div>
+				<div class="content-rounded-panel">
+					<ul>
+            {% for link in site.neuroskills %}
+						        <li><a href="{{link.url}}">{{link.title}}</a></li>
+						 {% endfor %}
+					</ul>
+				</div>	
+		  </div>
+</section>
