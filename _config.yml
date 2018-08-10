@@ -35,7 +35,15 @@ navbar-links:
   url: /
  -title: ASH Labpage
   url: http://wilsonlab.la.psu.edu
-  
+
+#Introduction
+intro_text: I am a second-year PhD student in Clinical Psychology at The Penn State University, State College.
+					I am originally from China. Research-wise, I am currently working with <a href="http://psych.la.psu.edu/directory/sjw42">
+					Dr. Stephen Wilson</a> on a project that examines the influences of contextual information on restrained 
+					eaters' neural reactivity to food and non-food reward cues. Our goal is to identify the neural markers
+					that predict the motivational processes and food choices among individuals in obesogenic environment.<br/><br/>
+					In my spare time, I enjoy running, reading, and writing my novel!
+          
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
