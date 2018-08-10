@@ -13,7 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Josie Huang
 name: Josie Huang
 
@@ -35,11 +34,11 @@ navbar-links:
   url: index.html
 - title: CV
   url: /
- -title: Publications
+- title: Publications
   url: /
- -title: Photos
+- title: Photos
   url: /
- -title: ASH Labpage
+- title: ASH Labpage
   url: http://wilsonlab.la.psu.edu
 
 #Introduction
@@ -49,7 +48,17 @@ intro_text: I am a second-year PhD student in Clinical Psychology at The Penn St
 					eaters' neural reactivity to food and non-food reward cues. Our goal is to identify the neural markers
 					that predict the motivational processes and food choices among individuals in obesogenic environment.<br/><br/>
 					In my spare time, I enjoy running, reading, and writing my novel!
-          
+
+#Program Skills
+programskills:
+- skill_list: MATLAB
+- skill_list: R
+- skill_list: STATA
+- skill_list: Presentation
+- skill_list: E-Prime
+- skill_list: SPSS
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
