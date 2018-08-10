@@ -70,8 +70,8 @@ th, td {
 .table {
 	word-wrap: break-word;
 	overflow-wrap: break-word;
-	margin-top: 5px;
-	margin-bottom: -5px;
+	margin-top: 10px;
+	margin-bottom: -10px;
 }
 
 .collapsible{
