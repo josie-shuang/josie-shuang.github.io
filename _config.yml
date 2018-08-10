@@ -30,16 +30,17 @@ plugins:
 
 #Specific contents
 #Navigation bar links
+navbarlinks:
 - title: Home
-  url: "index.html"
+  url: index.html
 - title: CV
-  url: "/"
+  url: /
  -title:Publications
-  url:"/"
+  url:/
  -Photos
-  url:"/"
+  url:/
  -ASH Labpage
-  url:http://wilsonlab.la.psu.edu
+  url: http://wilsonlab.la.psu.edu
   
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
