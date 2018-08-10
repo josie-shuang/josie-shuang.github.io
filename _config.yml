@@ -29,8 +29,9 @@ plugins:
   - jekyll-feed
 
 #Specific contents
+navbar-title: Josie Huang
 #Navigation bar links
-navbarlinks:
+navbar-links:
 - title: Home
   url: index.html
 - title: CV
