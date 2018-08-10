@@ -46,12 +46,12 @@ intro_text: I am a second-year PhD student in Clinical Psychology at The Penn St
 
 #Program Skills
 programskills:
-- skill_list: MATLAB
-- skill_list: R
-- skill_list: STATA
-- skill_list: Presentation
-- skill_list: E-Prime
-- skill_list: SPSS
+- MATLAB
+- R
+- STATA
+- Presentation
+- E-Prime
+- SPSS
 
 
 # Exclude from processing.
