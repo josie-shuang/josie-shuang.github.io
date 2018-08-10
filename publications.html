@@ -12,8 +12,8 @@ layout: default
 			 	</div>
 			 	<div class="content-rounded-panel">
 					<ul>
-						{% for list in publications %}
-						     <li>{{list}}</li>
+						{% for link in publications %}
+							<li><a href="{{link.url}}">{{list}}</a></li>
 					        {% endfor %}
 					</ul>
 			 	</div>
