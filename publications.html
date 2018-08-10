@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<!---------- Publications  --------->
+<div class="row">
+	<div class="container">
+	     <div class="col-md-11 rightBorder">     <!-- define the position, grid border=11 -->
+			<div class="rounded_panel txt_lightgrey">
+			 	<div class="top-rounded-panel grey-bg"> 
+					<h1> Publications </h1>
+			 	</div>
+			 	<div class="content-rounded-panel">
+					<ul>
+				    	{% for list in publications %}
+                  <li>{{list}}</li>
+              {% endfor %}
+					</ul>
+			 	</div>
+	      		</div>
+		</div>
+	</div>
+</div>
+
