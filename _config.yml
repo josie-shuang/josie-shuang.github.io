@@ -24,7 +24,7 @@ github_username:  josie-shuang
 
 # Build settings
 markdown: kramdown
-theme: NA
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -39,5 +39,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-theme: NA
-theme: NA
+theme: minima
+theme: minima
