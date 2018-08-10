@@ -45,17 +45,17 @@ intro_text: I am a second-year PhD student in Clinical Psychology at The Penn St
 
 #Education
 positions:
-- title: PhD candidate in Clinical Psychology
+- degree: PhD candidate in Clinical Psychology
   year: 2017-present
   university: The Penn State University
   advisor: Dr. Stephen Wilson
   research: Contextual influences on reward processing in addiction.
-- title: M.A. (Psychology)
+- degree: M.A. (Psychology)
   year: 2014-2017
   university: San Diego State University
   advisor: Dr. Ksenija Marinkovic
   research: Neural correlates of cognitive and affective functions in binge drinkers.
-- title: B.S. (Psychology)
+- degree: B.S. (Psychology)
   year: 2008-2012
   university: Peking University
   advisor: Dr. Shihui Han
