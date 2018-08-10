@@ -14,14 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: Josie Huang
-email: suh438@psu.edu
-description: >- # this means to ignore newlines until "baseurl:"
- Josie Huang's Personal Website!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Na
-github_username:  josie-shuang
 
 # Build settings
 markdown: kramdown
