@@ -146,6 +146,9 @@ hr{
 
 #ContactInfo ul li{
 	list-style-type: none;
+}
+
+#ContactInfo .content-rounded-panel {
 	margin-left: -20px;
 }
 
