@@ -131,16 +131,19 @@ hr{
 }
 
 #ContactInfo .txt_lightgrey {
-	background-color: #7FB3D5;
+	background-color: #A9CCE3;
 	position: fixed;
 	margin-top: 50px;
 	margin-left: 10px;
+	margin-right: 10px; 
 }
 
-#ContactInfo ul li{
+#ContactInfo li{
 	list-style-type: none;
 	margin-top: 10px;
 	margin-left: -10px;
-	color: #ECF0F1;
 }
-	
+
+#ContactInfo a{
+	color: #ECF0F1;   /* change hyperlink color */
+}
