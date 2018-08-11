@@ -56,6 +56,14 @@ positions:
   university: Peking University
   research: The modulating effects of group membership on empathic neural responses.
 
+#Contact info
+contact:
+- title: Email 
+  url: mailto: suh438@psu.edu
+- title: Address
+  407 Moore Building, University Park, <br/>State College, PA 16802
+
+  
 #Program Skills
 programskills:
 - MATLAB
