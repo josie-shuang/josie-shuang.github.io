@@ -60,8 +60,7 @@ positions:
 contact:
 - title: Email 
   url: mailto:suh438@psu.edu
-- title: Address
-  url: 407 Moore Building, University Park, <br/>State College, PA 16802
+- title: Address<br/>407 Moore Building, University Park, <br/>State College, PA 16802
 
   
 #Program Skills
@@ -92,7 +91,6 @@ publications:
 - title: Molnar, S. M., Beaton, L. E., Happer, J. P., Holcomb, L. A., <b> Huang, S.</b>, Arienzo, D., & Marinkovic, K. (2018). Behavioral and brain activity indices of cognitive control deficits in binge drinkers. <i>Brain Sciences, 8</i>(1), 9.
   url: http://www.mdpi.com/2076-3425/8/1/9
 - title: <b>Huang, S.</b>, Fan F., Zhang, Y., Yao, N., & Rodriguez, M. (2017). Attentional training for social anxiety in Chinese college students. <i> Chinese Journal of Clinical Psychology, 5 </i>, 986-990. 
-  url: /
 - title: Zhang, N., Fan, F., <b>Huang, S.</b>, & Rodriguez, M. (2016). Mindfulness training for loneliness among Chinese college students - A pilot randomized controlled trial. <i>International Journal of Psychology</i>.  
   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijop.12394
 - title: <b>Huang, S.</b>, & Han, S. (2014). Shared beliefs enhance shared feelings - Religious/irreligious identifications modulate empathic neural responses. <i> Social Neuroscience, 9</i>(6), 639-649. 
