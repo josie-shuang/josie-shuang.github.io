@@ -134,6 +134,7 @@ hr{
 	background-color: #D4E6F1;
 	position: fixed;
 	margin: 20px;
+	border-color: white;
 }
 
 #ContactInfo .rounded_panel {
