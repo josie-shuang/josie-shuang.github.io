@@ -131,7 +131,6 @@ hr{
 }
 
 #ContactInfo .txt_lightgrey {
-	background-color: #A9CCE3;
 	position: fixed;
 	padding-top: 80px;
 	margin: 10px;
@@ -144,5 +143,5 @@ hr{
 }
 
 #ContactInfo a{
-	color: #ECF0F1;   /* change hyperlink color */
+	color: #424949; ;   /* change hyperlink color */
 }
