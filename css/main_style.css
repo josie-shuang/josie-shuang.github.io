@@ -146,10 +146,6 @@ hr{
 	padding-top: 10px;
 }
 
-#ContactInfo a{
-	color: #424949; ;   /* change hyperlink color */
-}
-
 #novel body {
 	background-image: url("../img/Chinese_peasant_rebel.jpeg");
 	padding-top: 0;
