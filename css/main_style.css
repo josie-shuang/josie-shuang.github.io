@@ -131,15 +131,19 @@ hr{
 }
 
 #ContactInfo .txt_lightgrey {
+	background-color: #D4E6F1;
 	position: fixed;
-	padding-top: 80px;
-	margin: 10px;
+	margin: 20px;
+}
+
+#ContactInfo .rounded_panel {
+	margin-top: 80px;
+	position: fixed;
 }
 
 #ContactInfo li{
 	list-style-type: none;
 	padding-top: 10px;
-	margin-left: -5px;
 }
 
 #ContactInfo a{
