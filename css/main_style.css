@@ -130,10 +130,10 @@ hr{
 	margin-left: -30px;
 }
 
-#ContactInfo .txt_lightgrey {
+#ContactInfo .rounded_panel .txt_lightgrey {
 	background-color: #A9CCE3;
 	position: fixed;
-	margin-top: 50px;
+	margin-top: 100px;
 	margin-left: 10px;
 	margin-right: 10px; 
 }
