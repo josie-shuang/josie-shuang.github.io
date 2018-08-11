@@ -126,16 +126,16 @@ hr{
 }
 
 
-#ContactInfo {
-	background-color: #D4E6F1;
-	margin-top: 50px;
+#ContactInfo .txt_lightgrey {
+	background-color: #7FB3D5;
 	position: fixed;
+	margin-top: 50px;
 }
 
-#ContactInfo li{
+#ContactInfo ul li{
 	list-style-type: none;
-	margin-top: 15px;
-	margin-left: -30px;
-	color: #1C2833;
+	margin-top: 10px;
+	margin-left: -10px;
+	color: #ECF0F1;
 }
 	
