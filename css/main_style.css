@@ -144,6 +144,8 @@ hr{
 #ContactInfo li{
 	list-style-type: none;
 	padding-top: 10px;
+	color: #D0D3D4;
+	margin-left: -10px;
 }
 
 #novel body {
