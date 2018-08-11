@@ -111,6 +111,10 @@ hr{
 	margin-top: 15px;
 }
 
+ul li { 
+	list-style-type: none;
+}
+
 #ProgramSkills li{
 	background-color: #4f5760;
 	color: white;
