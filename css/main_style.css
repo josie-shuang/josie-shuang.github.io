@@ -114,18 +114,8 @@ hr{
 }
 
 ul li {
-	list-style: none;
+	list-style-type: none;
 }
-
-li:first-child {
-	margin-left: -20px;
-}
-
-li::before{
-	content:"*";
-	margin-right: 10px; 
-	color: red;
-} 
 
 
 #ProgramSkills li{
