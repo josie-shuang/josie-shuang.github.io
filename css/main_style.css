@@ -144,10 +144,10 @@ hr{
 	position: fixed;
 }
 
-#ContactInfo ul, li{
+#ContactInfo ul li{
 	list-style-type: none;
-	padding-top: 10px;
-	margin-left: -10px;
+	padding-top: 5px;
+	padding-left: -20px;
 }
 
 #novel body {
