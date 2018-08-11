@@ -146,7 +146,7 @@ hr{
 
 #ContactInfo ul li{
 	list-style-type: none;
-	padding-left: -30px;
+	padding-left: 0;
 }
 
 #novel body {
