@@ -124,3 +124,18 @@ hr{
 	margin-left: -40px;
 	margin-right: 50px;
 }
+
+
+#ContactInfo {
+	background-color: #D4E6F1;
+	margin-top: 50px;
+	position: fixed;
+}
+
+#ContactInfo li{
+	list-style-type: none;
+	margin-top: 15px;
+	margin-left: -30px;
+	color: #1C2833;
+}
+	
