@@ -143,6 +143,6 @@ hr{
 	margin-left: -5px;
 }
 
-#ContactInfo a:not:first-child{
+#ContactInfo a{
 	color: #ECF0F1;   /* change hyperlink color */
 }
