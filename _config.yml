@@ -29,6 +29,8 @@ navbar-title: Josie Huang
 navbar-links:
 - title: Home
   url: index.html
+- title: Research
+  url: research.html
 - title: CV
   url: /files/CV_8-10-18.pdf
 - title: Publications
