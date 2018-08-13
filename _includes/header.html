@@ -14,10 +14,10 @@
 			  </div>  
 				
 			  <div id="myNavbar" class="navbar-collapse collapse">
-				 <div id="logo">
-					<img src="../img/yumeji2.jpeg"> 
-				  </div>
 				 <ul class="nav navbar-nav navbar-right">
+					 <div id="logo">
+						<img src="../img/yumeji2.jpeg"> 
+				 	 </div>
 					       {% for link in site.navbar-links %}
                         				<li><a href="{{link.url}}">{{link.title}}</a></li>
                  				{% endfor %}
