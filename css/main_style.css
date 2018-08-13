@@ -15,6 +15,9 @@ body{
 
 #header #title {
 	font-size: 20px;
+}
+
+.navbar-header {
 	display: inline;
 }
 
