@@ -26,6 +26,13 @@ body{
 	position: relative;
 }
 
+#header #logo {
+	margin-left: 10px;
+	width: 30px;
+	height: 30px;
+	border-radius: 5px;
+}
+
 .top-rounded-panel h1{
 	/* color: #ff3500; */
 	color: #E74C3C;
