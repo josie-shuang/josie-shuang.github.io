@@ -11,13 +11,13 @@
 				 <a class="navbar-brand navbar-left" id="title"> 
                   			{{site.navbar-title}}
          			</a>   
+				  <div id="logo">
+						<img src="../img/yumeji2.jpeg"> 
+				 </div>
 			  </div>  
 				
 			  <div id="myNavbar" class="navbar-collapse collapse">
 				 <ul class="nav navbar-nav navbar-right">
-					 <div id="logo">
-						<img src="../img/yumeji2.jpeg"> 
-				 	 </div>
 					       {% for link in site.navbar-links %}
                         				<li><a href="{{link.url}}">{{link.title}}</a></li>
                  				{% endfor %}
