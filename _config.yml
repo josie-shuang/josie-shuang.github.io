@@ -23,7 +23,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 
 #Specific contents
-navbar-title: Josie Huang
+navbar-title: Siyuan (Josie) Huang
 
 #Navigation bar links
 navbar-links:
@@ -40,7 +40,7 @@ navbar-links:
 
 
 #Introduction
-intro_text: I am a second-year PhD student majoring in Clinical Psychology at The Penn State University, State College. I am currently working with <a href="http://psych.la.psu.edu/directory/sjw42">Dr. Stephen Wilson</a> on a project that examines the impacts of contextual information on the neural and subjective reactivity to food and non-food reward cues in indivivduals with eating regulatory difficulties. Our goal is to identify the neural markers that predict motivational dysfunctions and over-eating behaviors in an obesogenic environment replete with energy-dense, highly palatable food. We expect that these results will become one important contribution to the long line of the research in our lab that is aimed at developing a better understanding of the cognitive, affective, and motivational factors for addiction and overconsumption behaviors. <br/><br/> Aside from research, I am also trained and practice clinical assessment, diagnosis, and psychotherapy at the clinic at PSU. 
+intro_text: I am a second-year PhD student majoring in Clinical Psychology at The Penn State University, State College. I am currently working with <a href="http://psych.la.psu.edu/directory/sjw42">Dr. Stephen Wilson</a> on a project that examines the impacts of contextual information on the neural and subjective reactivity to food and non-food reward cues in indivivduals with eating regulatory difficulties. Our goal is to identify the neural markers that predict motivational dysfunctions and over-eating behaviors in an obesogenic environment replete with energy-dense, highly palatable food. We expect that these results will become one important contribution to the long line of the research in our lab that is aimed at developing a better understanding of the cognitive, affective, and motivational factors for addiction and overconsumption behaviors. <br/><br/> Outside of research, I am also trained and practice clinical assessment, diagnosis, and psychotherapy at the clinic at PSU. In my spare time, I enjoy running, reading, and writing my detective novel :)  
 
 #Education
 positions:
@@ -51,7 +51,7 @@ positions:
 - degree: M.A. (Psychology)
   year: 2014-2017
   university: San Diego State University
-  research: Temporal-spatial characteristics of cognitive and affective functions in alcohol abuse.
+  research: Spatio-temporal characteristics of cognitive and affective functions in the context of binge drinking.
 - degree: B.S. (Psychology)
   year: 2008-2012
   university: Peking University
