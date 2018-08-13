@@ -162,3 +162,7 @@ hr{
 #ContactInfo .content-rounded-panel {
 	margin-left: -30px;
 }
+
+body.novel_page{
+	background-image: url("../img/Chinese_peasant_rebel.jpeg");
+}
