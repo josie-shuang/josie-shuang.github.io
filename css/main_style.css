@@ -31,7 +31,7 @@ body{
 	height: 40px;
 	border-radius: 50%;
 	margin: -10px;
-	margin-left: 20px;
+	margin-left: 15px;
 }
 
 .top-rounded-panel h1{
@@ -152,6 +152,7 @@ hr{
 	position: fixed;
 	margin-left: 10px;
 	margin-right: 20px;
+	max-width: 200px;
 }
 
 #ContactInfo ul li{
