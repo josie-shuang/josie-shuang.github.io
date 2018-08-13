@@ -15,6 +15,7 @@ body{
 
 #header #title {
 	font-size: 20px;
+	display: inline;
 }
 
 #container {
